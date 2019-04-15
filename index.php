@@ -1,18 +1,43 @@
 <?php get_header(); ?>
 
-<div class="container-fluid main-content-wrapper revealator-slideup anim-class">
-		<div class="row section_1__main__row">
-			<div class="col-xl-6 col-lg-6 col-md-6">
-				<h1 class = "title-section1">
-					We Build Apps & Websites	<br class = "br__line">
-					for You Buisiness
-				</h1>
-				<span class = "desc_title">
-					For startups, For buisinesses & For you
-				</span>
+
+
+
+	<div class="mobile-menu">
+		<div class="wrapper-mobile-menu">
+			<ul class = "mobile-menu-list">
+				<li><a href="#">home</a></li>
+				<li><a href="#">work</a></li>
+				<li><a href="#">about</a></li>
+				<li><a href="#">contact</a></li>
+			</ul>
+		</div>
+		
+	</div>
+
+
+
+
+
+
+
+<div class="slider anim-class revealator-slideup">
+		<div class="slider-item ">
+			<div class="container-fluid main-content-wrapper anim-class">
+				<div class="row section_1__main__row">
+
+					<div class="col-xl-6 col-lg-6 col-md-6">
+
+					<h1 class = "title-section1">
+						We Build Apps & Websites	<br class = "br__line">
+						for You Buisiness
+					</h1>
+					<span class = "desc_title">
+						For startups, For buisinesses & For you
+					</span>
 
 				<div class="center_butt">
-					<button class = "request" onclick="relocate_func()">request a quote</button>
+					<button class = "request"  onclick="relocate_func()">request a quote</button>
 					
 				</div>
 
@@ -22,33 +47,202 @@
 			</div>
 
 			<div class="col-xl-6 main-image col-lg-6 col-md-6">
-
 				<img  src = "<?php bloginfo('template_directory'); ?>/assets/img/Icon.png" alt = "many-people ">
 			</div>
 
-				<div class="dots-wrapper">
-					<div class="dots-container">
-						<span class = "big-circle-dot"></span>
-						<span class = "circle-dot"></span>
-						<span class = "circle-dot"></span>
-						<span class = "circle-dot"></span>
-						<span class = "circle-dot"></span>
-						
+
+			</div><!--close row section_1__main__row--->
+		</div><!--close container-fluid main-content-wrapper revealator-slideup revealator-once revealator-delay1-->
+			
+		</div><!---close slider--item-->
+
+
+		<div class="slider-item hide-slider-item">
+			<div class="container-fluid main-content-wrapper anim-class">
+				<div class="row section_1__main__row">
+
+				<div class="col-xl-6 col-lg-6 col-md-6">
+
+					<h1 class = "title-section1">
+						We Build Apps & Websites	<br class = "br__line">
+						for You Buisiness
+					</h1>
+					<span class = "desc_title">
+						For startups, For buisinesses & For you
+					</span>
+
+				<div class="center_butt">
+					<button class = "request">request a quote</button>
+					
+				</div>
+
+				
+
+
+			</div>
+
+				<div class="col-xl-6 main-image col-lg-6 col-md-6">
+					<img  src = "<?php bloginfo('template_directory'); ?>/assets/img/Icon.png" alt = "many-people ">
+				</div>
+
+
+			</div><!--close row section_1__main__row--->
+		</div><!--close container-fluid main-content-wrapper revealator-slideup revealator-once revealator-delay1-->
+			
+		</div> <!---close slider--item-->
+
+
+
+		<div class="slider-item hide-slider-item">
+			<div class="container-fluid main-content-wrapper anim-class">
+
+				<div class="row section_1__main__row">
+
+				<div class="col-xl-6 col-lg-6 col-md-6">
+
+					<h1 class = "title-section1">
+						We Build Apps & Websites	<br class = "br__line">
+						for You Buisiness
+					</h1>
+					<span class = "desc_title">
+						For startups, For buisinesses & For you
+					</span>
+
+						<div class="center_butt">
+							<button class = "request">request a quote</button>
+							
+						</div>
+
+				
+
+
+				</div>
+
+					<div class="col-xl-6 main-image col-lg-6 col-md-6">
+						<img  src = "<?php bloginfo('template_directory'); ?>/assets/img/Icon.png" alt = "many-people ">
 					</div>
+
+
+				</div><!--close row section_1__main__row--->
+			</div><!--close container-fluid main-content-wrapper revealator-slideup revealator-once revealator-delay1-->
+			
+		</div><!---close slider--item-->
+
+
+
+		<div class="slider-item hide-slider-item">
+			<div class="container-fluid main-content-wrapper anim-class">
+				<div class="row section_1__main__row">
+
+				<div class="col-xl-6 col-lg-6 col-md-6">
+
+					<h1 class = "title-section1">
+						We Build Apps & Websites	<br class = "br__line">
+						for You Buisiness
+					</h1>
+					<span class = "desc_title">
+						For startups, For buisinesses & For you
+					</span>
+
+				<div class="center_butt">
+					<button class = "request">request a quote</button>
 					
+				</div>
+
+				
+
+
+			</div><!---close slider--item-->
+
+				<div class="col-xl-6 main-image col-lg-6 col-md-6">
+					<img  src = "<?php bloginfo('template_directory'); ?>/assets/img/Icon.png" alt = "many-people ">
+				</div>
+
+
+				</div><!--close row section_1__main__row--->
+			</div><!--close container-fluid main-content-wrapper revealator-slideup revealator-once revealator-delay1-->
+			
+		</div><!--slose-slide-item-->
+
+
+
+		<div class="slider-item hide-slider-item">
+			<div class="container-fluid main-content-wrapper anim-class">
+				<div class="row section_1__main__row">
+
+					<div class="col-xl-6 col-lg-6 col-md-6">
+
+					<h1 class = "title-section1">
+						We Build Apps & Websites	<br class = "br__line">
+						for You Buisiness
+					</h1>
+							<span class = "desc_title">
+								For startups, For buisinesses & For you
+							</span>
+
+						<div class="center_butt">
+							<button class = "request">request a quote</button>
+							
+						</div>
+
+				
+
+
+				</div>
+
+			<div class="col-xl-6 main-image col-lg-6 col-md-6">
+				<img  src = "<?php bloginfo('template_directory'); ?>/assets/img/Icon.png" alt = "many-people ">
+			</div>
+
+
+				</div><!--close row section_1__main__row--->
+			</div><!--close container-fluid main-content-wrapper revealator-slideup revealator-once revealator-delay1-->
+			
+		</div><!---close slider--item-->
+
+
+
+
+
+	</div><!-- close slider---->
+
+
+	
+
+	
+				
 					
-				</div><!--close dots-wrapper-->
+			
+
+
+
+
+				 
+
+
+
+
 				
-				
 
 
 
-		</div><!--close row section_1__main__row--->
-	</div><!--close container-fluid main-content-wrapper revealator-slideup revealator-once revealator-delay1-->
+			 
+
+			  	
+
+
+
+
+
+
+
+
+
+
 
 	<div class="circle-button-wrapper revealator-rotateright anim-class">
 
-		<div class="circle-button">
+		<div class="circle-button" id = "open-mobile-menu">
 			<i class="fas fa-angle-down"></i>
 		</div>
 
@@ -78,7 +272,6 @@
 
 	<section class = "section_2">
 		<div class="tipe-line-block">
-
 			<img src = "<?php bloginfo('template_directory'); ?>/assets/img/triple-line.png" alt = "triple-line-design"> 
 		</div>
 
@@ -163,13 +356,12 @@
 	<section class = "section_3">
 
 		<div class="tipe-line-block-deployed">
-			<img src = "<?php bloginfo('template_directory'); ?>/assets/img/triple-line-deployed.png" alt = "triple-line-design"> 
+			<img src = "<?php bloginfo('template_directory'); ?>/assets/img/triple-line-deployed.png" alt = "triple-line-design">
 		</div>
 
 		<div class="container-fluid">
 			<div class="row revealator-slideup anim-class section_3__row1">
 				<div class="col-xl-6 col-lg-6">
-
 					<img class = "spot" src = "<?php bloginfo('template_directory'); ?>/assets/img/blur_1.svg">
 						<h2 class="title__section3">
 							Experienced Designers &<br class = "br__line">
@@ -260,7 +452,7 @@
 
 				<div class="col-xl-6 col-lg-6">
 					<div class="shape-box">
-						<img src = "<?php bloginfo('template_directory'); ?>/assets/img/Shapes3.png">
+					<img src = "<?php bloginfo('template_directory'); ?>/assets/img/Shapes3.png">
 					</div>
 					<div class="img-box-bottom">
 						<img src = "<?php bloginfo('template_directory'); ?>/assets/img/working-men3.png">
@@ -405,6 +597,7 @@
 
 		
 	</section>
+
 
 
 
